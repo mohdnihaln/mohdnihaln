@@ -1,4 +1,4 @@
-![Header](./[![Banner](https://github.com/user-attachments/assets/3adf8185-ae57-48f1-bec4-37b42be7761d)])
+(./[![Banner](https://github.com/user-attachments/assets/3adf8185-ae57-48f1-bec4-37b42be7761d)])
 <h1 align="center">Hi 👋, I'm Mohammed Nihal N</h1>
 <h3 align="center">A Junior flutter developer, Front End Web Developer and Graphic Designer from India </h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resources/Developer.gif">
