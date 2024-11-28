@@ -1,4 +1,4 @@
-[![MasterHead[Banner](https://github.com/user-attachments/assets/388df0ee-fcad-4817-8ac2-106d25db58d2)]
+[![MasterHead (https://github.com/user-attachments/assets/388df0ee-fcad-4817-8ac2-106d25db58d2)]
 <h1 align="center">Hi 👋, I'm Mohammed Nihal N</h1>
 <h3 align="center">A Junior flutter developer, Front End Web Developer and Graphic Designer from India </h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resources/Developer.gif">
